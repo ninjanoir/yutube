@@ -1,0 +1,32 @@
+.App {
+  background-color: #ffde22;
+  padding: 5rem;
+ 
+}
+.ui.form input[type=text]{
+background-color: rgb(241, 241, 237) !important;
+padding: 1rem !important;
+}
+
+.search_box{
+  background-color:  #ff414e !important;
+}
+
+.label__style {
+  font-weight: bold !important;
+  text-transform: capitalize !important;
+  font-size: 1.2rem !important;
+  color: white !important;
+}
+
+.vid__thumb {
+  padding: 0.5rem;
+}
+.flex__item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.vid__thumb img {
+  max-width: 180px;
+}
